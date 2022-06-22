@@ -1,0 +1,9 @@
+Telegram nickname: @JohnnyShwarts
+Bug_id: 44
+Title: Dotted lines not showing
+Severity: Major
+Priority: high
+Environment: 1) Redmi note 7 /MIUI 12.5.3
+Precondition: widget on the screen with sizes 5x6 and 4x6, text size (L, xxs, xxl)
+STR: long press button (for possible screen transformation)
+AR: Neither side displays dotted lines (when stretched across the screen)
